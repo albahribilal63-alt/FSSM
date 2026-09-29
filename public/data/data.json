@@ -44,7 +44,7 @@
       "code": "P6-EDIT",
       "name": "Phase 6 Edited Verification",
       "description": "Edited fields persisted through the Admin API.",
-      "order": 0,
+      "order": 1,
       "visibility": "unlisted"
     },
     {
@@ -53,7 +53,7 @@
       "code": "P6-ORDER",
       "name": "Phase 6 Order Verification",
       "description": "Temporary ordering test.",
-      "order": 1,
+      "order": 0,
       "visibility": "private"
     }
   ],
