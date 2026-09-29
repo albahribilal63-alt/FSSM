@@ -1,5 +1,40 @@
 {
+  "schemaVersion": 1,
+
+  "site": {
+    "name": "Academic Portfolio & Isolated Assessment Hub",
+    "shortName": "Academic Portfolio",
+    "description": "",
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": ""
+    },
+    "social": {
+      "github": "",
+      "linkedin": "",
+      "instagram": ""
+    }
+  },
+
   "profile": {
-    ...
-  }
+    "fullName": "",
+    "institution": "",
+    "cne": "",
+    "apogee": "",
+    "program": "",
+    "branch": ""
+  },
+
+  "years": [],
+
+  "modules": [],
+
+  "activities": [],
+
+  "assets": [],
+
+  "isolatedLinks": [],
+
+  "feedback": []
 }
