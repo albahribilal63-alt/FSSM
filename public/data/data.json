@@ -37,8 +37,18 @@
       "order": 2
     }
   ],
+  "modules": [
+    {
+      "id": "4b1ac250-15c4-4d3c-ba90-83ff16b70fed",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "P6-TEMP",
+      "name": "Phase 6 Temporary Verification",
+      "description": "Temporary reversible Modules persistence test.",
+      "order": 0,
+      "visibility": "private"
+    }
+  ],
   "schemaVersion": 1,
-  "modules": [],
   "activities": [],
   "assets": [],
   "isolatedLinks": [],
