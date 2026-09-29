@@ -37,7 +37,17 @@
       "order": 2
     }
   ],
-  "modules": [],
+  "modules": [
+    {
+      "id": "356580aa-dfa9-4f56-a809-99c0d9e42d97",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "test-1",
+      "name": "test 1",
+      "description": "test",
+      "order": 0,
+      "visibility": "private"
+    }
+  ],
   "schemaVersion": 1,
   "activities": [],
   "assets": [],
