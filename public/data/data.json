@@ -15,11 +15,12 @@
     }
   },
   "profile": {
-    "institution": "",
-    "cne": "",
-    "apogee": "",
-    "program": "",
-    "branch": "",
+    "name": "Bilal ELBAHRI",
+    "institution": "fssm",
+    "cne": "PB400220",
+    "apogee": "2518966",
+    "program": "TC",
+    "branch": "INFO",
     "fullName": ""
   },
   "years": [
