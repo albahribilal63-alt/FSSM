@@ -76,7 +76,17 @@
       "visibility": "private"
     }
   ],
-  "isolatedLinks": [],
+  "isolatedLinks": [
+    {
+      "id": "39503ac9-c686-48bb-8547-9370c12c7bc5",
+      "tokenHash": "73d764a729a4dd1f490af94a2733c788a91d05d2feac8898134559f7979cbac4",
+      "tokenCiphertext": "v1.HXC0EilOvHyQcvJ0.ClEVnF0eKVZKIrcrmLDQnw.-xgHsnvkDLt1BZVYRns7Y1Au4JFiFfLSSZOjxQHl1nynAz8JjckSPsvSaw",
+      "scopeType": "module",
+      "scopeId": "356580aa-dfa9-4f56-a809-99c0d9e42d97",
+      "status": "active",
+      "expiresAt": null
+    }
+  ],
   "schemaVersion": 1,
   "feedback": []
 }
