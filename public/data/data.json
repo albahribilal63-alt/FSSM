@@ -25,14 +25,14 @@
   },
   "years": [
     {
-      "id": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "name": "2026/2027",
+      "id": "1a0d42e0-bf95-4807-a017-10c4c23175a8",
+      "name": "2027/2028",
       "status": "upcoming",
       "order": 1
     },
     {
-      "id": "1a0d42e0-bf95-4807-a017-10c4c23175a8",
-      "name": "2027/2028",
+      "id": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "name": "2026/2027",
       "status": "upcoming",
       "order": 2
     }
