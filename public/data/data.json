@@ -76,7 +76,16 @@
       "visibility": "private"
     }
   ],
+  "isolatedLinks": [
+    {
+      "id": "b3ac096e-d29b-4f92-b5e0-f5a6046b6263",
+      "tokenHash": "f3d75d89f2e5b3e678630973003f30a3ba37558fc1701acd00036227ce142f0c",
+      "scopeType": "module",
+      "scopeId": "356580aa-dfa9-4f56-a809-99c0d9e42d97",
+      "status": "active",
+      "expiresAt": null
+    }
+  ],
   "schemaVersion": 1,
-  "isolatedLinks": [],
   "feedback": []
 }
