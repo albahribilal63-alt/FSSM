@@ -46,6 +46,15 @@
       "description": "Edited fields persisted through the Admin API.",
       "order": 0,
       "visibility": "unlisted"
+    },
+    {
+      "id": "63265910-1b62-4a24-9a10-00e6225f9d26",
+      "yearId": "1a0d42e0-bf95-4807-a017-10c4c23175a8",
+      "code": "P6-ORDER",
+      "name": "Phase 6 Order Verification",
+      "description": "Temporary ordering test.",
+      "order": 1,
+      "visibility": "private"
     }
   ],
   "schemaVersion": 1,
