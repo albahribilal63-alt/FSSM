@@ -90,7 +90,7 @@
       "tokenHash": "135f065804bb69bcfb6a11b310154d196d5f769d59fff4e24a4f81ff2135ba03",
       "scopeType": "activity",
       "scopeId": "f48d1a92-2938-4bcb-beca-f57b5b7f509c",
-      "status": "active",
+      "status": "revoked",
       "expiresAt": null
     }
   ],
