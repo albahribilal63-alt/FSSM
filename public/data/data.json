@@ -64,7 +64,16 @@
       "title": "Phase 7 Validation Updated",
       "description": "Updated during end-to-end validation",
       "type": "exercise",
-      "order": 0,
+      "order": 2,
+      "visibility": "private"
+    },
+    {
+      "id": "1729e994-1dc7-40e4-8d9e-81f39a5f5479",
+      "moduleId": "356580aa-dfa9-4f56-a809-99c0d9e42d97",
+      "title": "Phase 9 Activity Probe",
+      "description": "Temporary ordering verification",
+      "type": "exercise",
+      "order": 1,
       "visibility": "private"
     }
   ],
