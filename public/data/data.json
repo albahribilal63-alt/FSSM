@@ -59,17 +59,7 @@
       "visibility": "private"
     }
   ],
-  "assets": [
-    {
-      "id": "ba0c8abc-eb68-4acd-a269-5be6a739a0cc",
-      "activityId": "f48d1a92-2938-4bcb-beca-f57b5b7f509c",
-      "name": "phase-8-edited.pdf",
-      "type": "PDF",
-      "path": "public/storage/docs/ba0c8abc-eb68-4acd-a269-5be6a739a0cc.pdf",
-      "order": 7,
-      "visibility": "public"
-    }
-  ],
+  "assets": [],
   "schemaVersion": 1,
   "isolatedLinks": [],
   "feedback": []
