@@ -1,10 +1,8 @@
 {
-  "schemaVersion": 1,
-
   "site": {
+    "description": "",
     "name": "Academic Portfolio & Isolated Assessment Hub",
     "shortName": "Academic Portfolio",
-    "description": "",
     "contact": {
       "email": "",
       "phone": "",
@@ -16,25 +14,26 @@
       "instagram": ""
     }
   },
-
   "profile": {
-    "fullName": "",
     "institution": "",
     "cne": "",
     "apogee": "",
     "program": "",
-    "branch": ""
+    "branch": "",
+    "fullName": ""
   },
-
-  "years": [],
-
+  "years": [
+    {
+      "id": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "name": "2026/2027",
+      "status": "upcoming",
+      "order": 1
+    }
+  ],
+  "schemaVersion": 1,
   "modules": [],
-
   "activities": [],
-
   "assets": [],
-
   "isolatedLinks": [],
-
   "feedback": []
 }
