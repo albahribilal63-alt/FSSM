@@ -44,15 +44,6 @@
       "code": "test-1",
       "name": "test 1",
       "description": "test",
-      "order": 2,
-      "visibility": "private"
-    },
-    {
-      "id": "7f3b643d-7028-41b0-bdfb-e9fd960108b6",
-      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "ORDER-9",
-      "name": "Phase 9 Ordering Probe",
-      "description": "Temporary ordering verification",
       "order": 1,
       "visibility": "private"
     }
