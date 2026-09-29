@@ -28,6 +28,12 @@
       "name": "2026/2027",
       "status": "upcoming",
       "order": 1
+    },
+    {
+      "id": "1a0d42e0-bf95-4807-a017-10c4c23175a8",
+      "name": "2027/2028",
+      "status": "upcoming",
+      "order": 2
     }
   ],
   "schemaVersion": 1,
