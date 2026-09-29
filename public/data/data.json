@@ -40,12 +40,12 @@
   "modules": [
     {
       "id": "4b1ac250-15c4-4d3c-ba90-83ff16b70fed",
-      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "P6-TEMP",
-      "name": "Phase 6 Temporary Verification",
-      "description": "Temporary reversible Modules persistence test.",
+      "yearId": "1a0d42e0-bf95-4807-a017-10c4c23175a8",
+      "code": "P6-EDIT",
+      "name": "Phase 6 Edited Verification",
+      "description": "Edited fields persisted through the Admin API.",
       "order": 0,
-      "visibility": "private"
+      "visibility": "unlisted"
     }
   ],
   "schemaVersion": 1,
