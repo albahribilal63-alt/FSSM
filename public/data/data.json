@@ -78,14 +78,6 @@
   ],
   "isolatedLinks": [
     {
-      "id": "b3ac096e-d29b-4f92-b5e0-f5a6046b6263",
-      "tokenHash": "f3d75d89f2e5b3e678630973003f30a3ba37558fc1701acd00036227ce142f0c",
-      "scopeType": "module",
-      "scopeId": "356580aa-dfa9-4f56-a809-99c0d9e42d97",
-      "status": "revoked",
-      "expiresAt": null
-    },
-    {
       "id": "b4847333-a8b9-49c6-b1ef-f94d97f7c1c7",
       "tokenHash": "135f065804bb69bcfb6a11b310154d196d5f769d59fff4e24a4f81ff2135ba03",
       "scopeType": "activity",
