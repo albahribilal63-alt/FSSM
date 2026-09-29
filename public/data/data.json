@@ -27,7 +27,7 @@
     {
       "id": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
       "name": "2026/2027",
-      "status": "upcoming",
+      "status": "current",
       "order": 1
     },
     {
@@ -35,6 +35,12 @@
       "name": "2027/2028",
       "status": "upcoming",
       "order": 2
+    },
+    {
+      "id": "63b530a4-0f8e-4c65-a837-8cffb7238971",
+      "name": "2025/2026",
+      "status": "previous",
+      "order": 3
     }
   ],
   "modules": [
