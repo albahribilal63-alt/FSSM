@@ -70,6 +70,15 @@
       "description": "",
       "order": 3,
       "visibility": "public"
+    },
+    {
+      "id": "6b54d6db-d877-46db-a683-a7d84b074e93",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "M2 = Recherche Opérationnelle & Optimisation",
+      "name": "M2 = Recherche Opérationnelle & Optimisation",
+      "description": "",
+      "order": 4,
+      "visibility": "private"
     }
   ],
   "activities": [
