@@ -148,15 +148,6 @@
       "expiresAt": null
     },
     {
-      "id": "62276ed9-d884-4f61-877b-b757eb876543",
-      "tokenHash": "d5b84ae68cd0c09a2c76438b029e142ac8c58ac5ada3449c9cd6e04b04e80fb0",
-      "tokenCiphertext": "v1.puCQpS7bBp4TWRrV.Pg0Me0sKr1HCOlqBf2JifQ.9JRjlDLn3uyCJsC44RCZ2UuoEIZJ5hmbDgl3unF5V2i5v62EV3WroLBmvA",
-      "scopeType": "activity",
-      "scopeId": "f48d1a92-2938-4bcb-beca-f57b5b7f509c",
-      "status": "revoked",
-      "expiresAt": null
-    },
-    {
       "id": "7504d827-8519-4e66-9d61-53aca61e3c2d",
       "tokenHash": "88662f0d5c678194f8f4ef18b6da21e4a1613fbba6e9850116a2e8e26dcd1871",
       "tokenCiphertext": "v1.GEQwHI7HLyWg-__A.r5LvVeXQkjULOr2aHLTpnQ.Y_jWlPJlO48CiR4xRsSWbOLiZiK7k73P8iHfrM9nfQYYOoFTcMnR8wVfsA",
