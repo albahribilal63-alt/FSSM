@@ -155,6 +155,15 @@
       "scopeId": "6b54d6db-d877-46db-a683-a7d84b074e93",
       "status": "active",
       "expiresAt": null
+    },
+    {
+      "id": "713219cc-b66b-48a2-b849-6a23f96a1f0d",
+      "tokenHash": "0b60859167d3bc67298d7676f30170a815bc07f585a004301836ea1fd59fbf6f",
+      "tokenCiphertext": "v1.3C4H0e8pLwbcuc6a.iK3Bo8Ppfurfc8NKWBffCA.-fA1L1SeteCbb6pfjUEJmrDc-XJz75MfiOdrKJMTKbW65394s35cMGDMMg",
+      "scopeType": "module",
+      "scopeId": "12da5901-b12f-4c89-9f43-9cfe84192b00",
+      "status": "active",
+      "expiresAt": null
     }
   ],
   "schemaVersion": 1,
