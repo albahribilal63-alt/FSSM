@@ -202,6 +202,18 @@
       "expiresAt": null
     }
   ],
+  "professorFeedback": [
+    {
+      "isolatedLinkId": "cc579dd6-f71e-4955-8308-305406185309",
+      "scopeType": "module",
+      "scopeId": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
+      "professorName": "Professor E2E QA",
+      "score": 18.5,
+      "comments": "Temporary Phase 11 end-to-end check.",
+      "observations": "No blocking issues.",
+      "submittedAt": "2026-09-30T19:11:05.589Z"
+    }
+  ],
   "schemaVersion": 1,
   "feedback": []
 }
