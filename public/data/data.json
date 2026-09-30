@@ -120,6 +120,15 @@
       "scopeId": "abe87ffa-f1a4-4509-bf72-e6a0b1d180b1",
       "status": "active",
       "expiresAt": null
+    },
+    {
+      "id": "ee3c3da2-35a1-45c7-9e73-5722eed99d5d",
+      "tokenHash": "031b228a5ccaabbb236b8fb4a1ebd41188788bd5c0cf4f264f93ad3b8b57a13b",
+      "tokenCiphertext": "v1.72gtPSxHlbeiJeMt.J-AchMfch0-bROT3WMVlaw.aUz_xyGVefkGv_VLcVsBFb7FLElBmR3KKeZrTiYiXPXd7uJ8IDesOSy8pg",
+      "scopeType": "activity",
+      "scopeId": "509691fe-dd24-4575-8b6e-35cc94c12414",
+      "status": "active",
+      "expiresAt": null
     }
   ],
   "schemaVersion": 1,
