@@ -52,6 +52,15 @@
       "description": "test",
       "order": 1,
       "visibility": "private"
+    },
+    {
+      "id": "abe87ffa-f1a4-4509-bf72-e6a0b1d180b1",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "WEP-2",
+      "name": "Wep 2",
+      "description": "",
+      "order": 2,
+      "visibility": "public"
     }
   ],
   "activities": [
