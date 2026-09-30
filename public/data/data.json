@@ -51,7 +51,7 @@
       "name": "test 1",
       "description": "test",
       "order": 1,
-      "visibility": "private"
+      "visibility": "public"
     },
     {
       "id": "abe87ffa-f1a4-4509-bf72-e6a0b1d180b1",
