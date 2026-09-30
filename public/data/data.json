@@ -228,6 +228,15 @@
       "comments": "TP1 assessment is independent.",
       "observations": "TP1 observation.",
       "submittedAt": "2026-09-30T19:59:41.368Z"
+    },
+    {
+      "isolatedLinkId": "cc579dd6-f71e-4955-8308-305406185309",
+      "activityId": "50775b39-7fb5-466b-a7fe-6220ccbe0122",
+      "professorName": "Phase11 UI QA TP2",
+      "score": 15,
+      "comments": "TP2 assessment is independent.",
+      "observations": "TP2 observation.",
+      "submittedAt": "2026-09-30T19:59:54.609Z"
     }
   ],
   "schemaVersion": 1,
