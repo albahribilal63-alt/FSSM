@@ -45,21 +45,12 @@
   ],
   "modules": [
     {
-      "id": "356580aa-dfa9-4f56-a809-99c0d9e42d97",
-      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "test-1",
-      "name": "test 1",
-      "description": "test",
-      "order": 1,
-      "visibility": "public"
-    },
-    {
       "id": "abe87ffa-f1a4-4509-bf72-e6a0b1d180b1",
       "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
       "code": "WEP-2",
       "name": "Wep 2",
       "description": "",
-      "order": 2,
+      "order": 1,
       "visibility": "public"
     },
     {
@@ -68,7 +59,7 @@
       "code": "M1_Structure-de-données-en-C",
       "name": "M1 = Structure de données en C",
       "description": "",
-      "order": 3,
+      "order": 2,
       "visibility": "public"
     },
     {
@@ -77,7 +68,7 @@
       "code": "M2 = Recherche Opérationnelle & Optimisation",
       "name": "M2 = Recherche Opérationnelle & Optimisation",
       "description": "",
-      "order": 4,
+      "order": 3,
       "visibility": "private"
     },
     {
@@ -86,7 +77,7 @@
       "code": "M3 = Système d'exploitation 1",
       "name": "M3 = Système d'exploitation 1",
       "description": "",
-      "order": 5,
+      "order": 4,
       "visibility": "public"
     },
     {
@@ -95,7 +86,7 @@
       "code": "M4 = Probabilités et Statistiques",
       "name": "M4 = Probabilités et Statistiques",
       "description": "",
-      "order": 6,
+      "order": 5,
       "visibility": "public"
     },
     {
@@ -104,7 +95,7 @@
       "code": "M5 = Programmation Web 2",
       "name": "M5 = Programmation Web 2",
       "description": "",
-      "order": 7,
+      "order": 6,
       "visibility": "public"
     },
     {
@@ -113,7 +104,7 @@
       "code": "M6 = Modélisation objet UML",
       "name": "M6 = Modélisation objet UML",
       "description": "",
-      "order": 8,
+      "order": 7,
       "visibility": "public"
     },
     {
@@ -122,7 +113,7 @@
       "code": "M7 = Français",
       "name": "M7 = Français",
       "description": "",
-      "order": 9,
+      "order": 8,
       "visibility": "public"
     }
   ],
@@ -148,15 +139,6 @@
     }
   ],
   "isolatedLinks": [
-    {
-      "id": "39503ac9-c686-48bb-8547-9370c12c7bc5",
-      "tokenHash": "bdd39fc10fcf4b718b238ff90925fdb734ca1187bd469f489a6afb6d0d0374ae",
-      "tokenCiphertext": "v1.PFPtOE2UGRJ6bTSl.iZFS9stSKF1pK94DcM1o1g.vs-H0jcN82dODh3Hyn1Ekph8_uX3BdNseHxq0Ir_U_SED-iHUQqou6spYw",
-      "scopeType": "module",
-      "scopeId": "356580aa-dfa9-4f56-a809-99c0d9e42d97",
-      "status": "active",
-      "expiresAt": null
-    },
     {
       "id": "7504d827-8519-4e66-9d61-53aca61e3c2d",
       "tokenHash": "88662f0d5c678194f8f4ef18b6da21e4a1613fbba6e9850116a2e8e26dcd1871",
