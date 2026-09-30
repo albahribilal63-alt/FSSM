@@ -172,15 +172,6 @@
   ],
   "assets": [
     {
-      "id": "8a765ae4-df3b-440c-8035-da914c31657a",
-      "activityId": "509691fe-dd24-4575-8b6e-35cc94c12414",
-      "name": "Exercice_UML_ELBAHRI_Bilal.pdf",
-      "type": "PDF",
-      "path": "public/storage/docs/8a765ae4-df3b-440c-8035-da914c31657a.pdf",
-      "order": 1,
-      "visibility": "public"
-    },
-    {
       "id": "59203059-5777-4ac6-9da1-2233dfd88cd4",
       "activityId": "f42ef696-88e5-4a3f-b1f8-5833b40b665f",
       "name": "Correction Exercice UML - Pr. Soukaina Mjahed.pdf",
