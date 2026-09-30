@@ -85,6 +85,15 @@
       "scopeId": "356580aa-dfa9-4f56-a809-99c0d9e42d97",
       "status": "active",
       "expiresAt": null
+    },
+    {
+      "id": "62276ed9-d884-4f61-877b-b757eb876543",
+      "tokenHash": "d6d18f21f56eab62dff76fa20cf2b1ced820cb918f84eb37a07518e035ff1960",
+      "tokenCiphertext": "v1.E_KYeJQ31E6mTU5J.QJOGnzmm3sj2TvoM8vTogA.pPvmTrA-4WyHPG3EHMzyT8H87PiWZXqujBWn2YakhmXfdKx6Tqh1YXcQrg",
+      "scopeType": "activity",
+      "scopeId": "f48d1a92-2938-4bcb-beca-f57b5b7f509c",
+      "status": "active",
+      "expiresAt": null
     }
   ],
   "schemaVersion": 1,
