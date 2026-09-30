@@ -47,8 +47,8 @@
     {
       "id": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
       "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "M1_Structure-de-données-en-C",
-      "name": "M1 = Structure de données en C",
+      "code": "M1_Structure-de-donn�es-en-C",
+      "name": "M1 = Structure de donn�es en C",
       "description": "",
       "order": 1,
       "visibility": "public"
@@ -56,8 +56,8 @@
     {
       "id": "6b54d6db-d877-46db-a683-a7d84b074e93",
       "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "M2 = Recherche Opérationnelle & Optimisation",
-      "name": "M2 = Recherche Opérationnelle & Optimisation",
+      "code": "M2 = Recherche Op�rationnelle & Optimisation",
+      "name": "M2 = Recherche Op�rationnelle & Optimisation",
       "description": "",
       "order": 2,
       "visibility": "private"
@@ -65,8 +65,8 @@
     {
       "id": "12da5901-b12f-4c89-9f43-9cfe84192b00",
       "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "M3 = Système d'exploitation 1",
-      "name": "M3 = Système d'exploitation 1",
+      "code": "M3 = Syst�me d'exploitation 1",
+      "name": "M3 = Syst�me d'exploitation 1",
       "description": "",
       "order": 3,
       "visibility": "public"
@@ -74,8 +74,8 @@
     {
       "id": "70cdeccd-841f-4b44-8b78-287170fae243",
       "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "M4 = Probabilités et Statistiques",
-      "name": "M4 = Probabilités et Statistiques",
+      "code": "M4 = Probabilit�s et Statistiques",
+      "name": "M4 = Probabilit�s et Statistiques",
       "description": "",
       "order": 4,
       "visibility": "public"
@@ -92,8 +92,8 @@
     {
       "id": "b29872df-9f28-4467-b945-361bda7c1c7d",
       "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "M6 = Modélisation objet UML",
-      "name": "M6 = Modélisation objet UML",
+      "code": "M6 = Mod�lisation objet UML",
+      "name": "M6 = Mod�lisation objet UML",
       "description": "",
       "order": 6,
       "visibility": "public"
@@ -101,8 +101,8 @@
     {
       "id": "6528f5d6-d65a-4937-8448-115bd0c30e3b",
       "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "M7 = Français",
-      "name": "M7 = Français",
+      "code": "M7 = Fran�ais",
+      "name": "M7 = Fran�ais",
       "description": "",
       "order": 7,
       "visibility": "public"
@@ -200,18 +200,6 @@
       "scopeId": "6528f5d6-d65a-4937-8448-115bd0c30e3b",
       "status": "active",
       "expiresAt": null
-    }
-  ],
-  "professorFeedback": [
-    {
-      "isolatedLinkId": "cc579dd6-f71e-4955-8308-305406185309",
-      "scopeType": "module",
-      "scopeId": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
-      "professorName": "Professor E2E QA",
-      "score": 18.5,
-      "comments": "Temporary Phase 11 end-to-end check.",
-      "observations": "No blocking issues.",
-      "submittedAt": "2026-09-30T19:11:05.589Z"
     }
   ],
   "schemaVersion": 1,
