@@ -219,7 +219,18 @@
       "expiresAt": null
     }
   ],
-  "professorFeedback": [],
+  "professorFeedback": [
+    {
+      "isolatedLinkId": "cc579dd6-f71e-4955-8308-305406185309",
+      "scopeType": "module",
+      "scopeId": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
+      "professorName": "Phase 11 Privacy QA",
+      "score": 18.75,
+      "comments": "Verify sanitized feedback response.",
+      "observations": "No change to academic data.",
+      "submittedAt": "2026-09-30T19:36:27.697Z"
+    }
+  ],
   "schemaVersion": 1,
   "feedback": []
 }
