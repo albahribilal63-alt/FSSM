@@ -128,40 +128,6 @@
   ],
   "activities": [
     {
-      "id": "509691fe-dd24-4575-8b6e-35cc94c12414",
-      "moduleId": "abe87ffa-f1a4-4509-bf72-e6a0b1d180b1",
-      "title": "Phase 7 Validation Updated",
-      "type": "exercise",
-      "order": 1,
-      "visibility": "public"
-    },
-    {
-      "id": "f48d1a92-2938-4bcb-beca-f57b5b7f509c",
-      "moduleId": "356580aa-dfa9-4f56-a809-99c0d9e42d97",
-      "title": "Phase 7 Validation Updated",
-      "description": "Updated during end-to-end validation",
-      "type": "exercise",
-      "order": 1,
-      "visibility": "public"
-    },
-    {
-      "id": "f42ef696-88e5-4a3f-b1f8-5833b40b665f",
-      "moduleId": "356580aa-dfa9-4f56-a809-99c0d9e42d97",
-      "title": "wep 1",
-      "description": "tw dyf jvouf diff vbbe wib wiobfkb bow8 if vif i fe v4ief fbwr m webf h9wf  f32bf foemek eo mfpw sff ,fh2 l 2h2m p2f m2kv2 222 fi EOJAØEQ rojefniw afjnf of voqdkl owfmf p2qpodjq3d tuvhrj vwilwc  qofnwe ow owwadlqb ojg foxclz z,xv ksf oøsdldvp  pksd nmd aidjn c4be 4onsd",
-      "type": "exercise",
-      "order": 2,
-      "visibility": "public"
-    },
-    {
-      "id": "d5b20dbb-0a60-42cc-8395-0278831313bd",
-      "moduleId": "356580aa-dfa9-4f56-a809-99c0d9e42d97",
-      "title": "test-2",
-      "type": "project",
-      "order": 3,
-      "visibility": "public"
-    },
-    {
       "id": "175917a2-3497-4aac-9790-0b1d89eb4b88",
       "moduleId": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
       "title": "TP_1",
