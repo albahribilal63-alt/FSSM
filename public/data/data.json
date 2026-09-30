@@ -113,7 +113,7 @@
       "code": "M6 = Modélisation objet UML",
       "name": "M6 = Modélisation objet UML",
       "description": "",
-      "order": 8,
+      "order": 9,
       "visibility": "public"
     },
     {
@@ -122,7 +122,7 @@
       "code": "M7 = Français",
       "name": "M7 = Français",
       "description": "",
-      "order": 9,
+      "order": 8,
       "visibility": "public"
     }
   ],
