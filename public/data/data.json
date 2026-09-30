@@ -45,21 +45,12 @@
   ],
   "modules": [
     {
-      "id": "abe87ffa-f1a4-4509-bf72-e6a0b1d180b1",
-      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "WEP-2",
-      "name": "Wep 2",
-      "description": "",
-      "order": 1,
-      "visibility": "public"
-    },
-    {
       "id": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
       "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
       "code": "M1_Structure-de-données-en-C",
       "name": "M1 = Structure de données en C",
       "description": "",
-      "order": 2,
+      "order": 1,
       "visibility": "public"
     },
     {
@@ -68,7 +59,7 @@
       "code": "M2 = Recherche Opérationnelle & Optimisation",
       "name": "M2 = Recherche Opérationnelle & Optimisation",
       "description": "",
-      "order": 3,
+      "order": 2,
       "visibility": "private"
     },
     {
@@ -77,7 +68,7 @@
       "code": "M3 = Système d'exploitation 1",
       "name": "M3 = Système d'exploitation 1",
       "description": "",
-      "order": 4,
+      "order": 3,
       "visibility": "public"
     },
     {
@@ -86,7 +77,7 @@
       "code": "M4 = Probabilités et Statistiques",
       "name": "M4 = Probabilités et Statistiques",
       "description": "",
-      "order": 5,
+      "order": 4,
       "visibility": "public"
     },
     {
@@ -95,7 +86,7 @@
       "code": "M5 = Programmation Web 2",
       "name": "M5 = Programmation Web 2",
       "description": "",
-      "order": 6,
+      "order": 5,
       "visibility": "public"
     },
     {
@@ -104,7 +95,7 @@
       "code": "M6 = Modélisation objet UML",
       "name": "M6 = Modélisation objet UML",
       "description": "",
-      "order": 7,
+      "order": 6,
       "visibility": "public"
     },
     {
@@ -113,7 +104,7 @@
       "code": "M7 = Français",
       "name": "M7 = Français",
       "description": "",
-      "order": 8,
+      "order": 7,
       "visibility": "public"
     }
   ],
@@ -139,15 +130,6 @@
     }
   ],
   "isolatedLinks": [
-    {
-      "id": "7504d827-8519-4e66-9d61-53aca61e3c2d",
-      "tokenHash": "88662f0d5c678194f8f4ef18b6da21e4a1613fbba6e9850116a2e8e26dcd1871",
-      "tokenCiphertext": "v1.GEQwHI7HLyWg-__A.r5LvVeXQkjULOr2aHLTpnQ.Y_jWlPJlO48CiR4xRsSWbOLiZiK7k73P8iHfrM9nfQYYOoFTcMnR8wVfsA",
-      "scopeType": "module",
-      "scopeId": "abe87ffa-f1a4-4509-bf72-e6a0b1d180b1",
-      "status": "active",
-      "expiresAt": null
-    },
     {
       "id": "cc579dd6-f71e-4955-8308-305406185309",
       "tokenHash": "5a4651a9d5e0be9c1401e4e69ea6eefec37fc40d50b5a88f0201d440b38e4583",
