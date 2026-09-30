@@ -200,6 +200,15 @@
       "scopeId": "6528f5d6-d65a-4937-8448-115bd0c30e3b",
       "status": "active",
       "expiresAt": null
+    },
+    {
+      "id": "2bcd820a-ec20-45f9-9e8e-b121e0bec852",
+      "tokenHash": "817bb49ed2fb5b19b341711f34b5ce67e27b2d3188f22eb0d38e87ebfbd3d47a",
+      "tokenCiphertext": "v1.0CI_ClQFQXyw40Zr.pX6TmK1dp2yyLvk7CiZBZg.dzCoygLvrGhntGrlV_e7TviilX-pxYF7Lv_Assku5U7Z0bAPAgWi4Tm_uA",
+      "scopeType": "activity",
+      "scopeId": "175917a2-3497-4aac-9790-0b1d89eb4b88",
+      "status": "active",
+      "expiresAt": null
     }
   ],
   "professorFeedback": [],
