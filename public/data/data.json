@@ -106,6 +106,14 @@
       "type": "project",
       "order": 3,
       "visibility": "public"
+    },
+    {
+      "id": "175917a2-3497-4aac-9790-0b1d89eb4b88",
+      "moduleId": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
+      "title": "TP_1",
+      "type": "exercise",
+      "order": 1,
+      "visibility": "public"
     }
   ],
   "assets": [
