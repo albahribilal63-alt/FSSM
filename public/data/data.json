@@ -146,6 +146,15 @@
       "scopeId": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
       "status": "active",
       "expiresAt": null
+    },
+    {
+      "id": "4e63d932-d472-443c-b9f2-98516b2641bc",
+      "tokenHash": "b9009a015d7e7b52d922cbb61dec1577d6a5ca33618f9a9b6c7ab5367c56a9fa",
+      "tokenCiphertext": "v1.ELPg7gWsyoBbSjST.PcGWvjfDjPUJsDaZkVFG8w.5nFy7IjjlB3eOGBLAyA9tTI-Iy7IHbhyYLWY9OaT5kwDC49sWgCPhNZHqw",
+      "scopeType": "module",
+      "scopeId": "6b54d6db-d877-46db-a683-a7d84b074e93",
+      "status": "active",
+      "expiresAt": null
     }
   ],
   "schemaVersion": 1,
