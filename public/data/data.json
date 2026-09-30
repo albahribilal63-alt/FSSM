@@ -172,15 +172,6 @@
   ],
   "assets": [
     {
-      "id": "59203059-5777-4ac6-9da1-2233dfd88cd4",
-      "activityId": "f42ef696-88e5-4a3f-b1f8-5833b40b665f",
-      "name": "Correction Exercice UML - Pr. Soukaina Mjahed.pdf",
-      "type": "PDF",
-      "path": "public/storage/docs/59203059-5777-4ac6-9da1-2233dfd88cd4.pdf",
-      "order": 1,
-      "visibility": "private"
-    },
-    {
       "id": "5c52eeec-6910-4c5a-8a8b-043f67395725",
       "activityId": "175917a2-3497-4aac-9790-0b1d89eb4b88",
       "name": "Correction_Exercice_UML_Simple(1).pdf",
