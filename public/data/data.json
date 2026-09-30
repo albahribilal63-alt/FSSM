@@ -219,6 +219,17 @@
       "expiresAt": null
     }
   ],
+  "professorFeedback": [
+    {
+      "isolatedLinkId": "cc579dd6-f71e-4955-8308-305406185309",
+      "activityId": "175917a2-3497-4aac-9790-0b1d89eb4b88",
+      "professorName": "Phase11 UI QA TP1",
+      "score": 17,
+      "comments": "TP1 assessment is independent.",
+      "observations": "TP1 observation.",
+      "submittedAt": "2026-09-30T19:59:41.368Z"
+    }
+  ],
   "schemaVersion": 1,
   "feedback": []
 }
