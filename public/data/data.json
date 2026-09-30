@@ -182,6 +182,15 @@
       "scopeId": "1b52aa71-f9e5-45bb-95c6-763409c360b7",
       "status": "active",
       "expiresAt": null
+    },
+    {
+      "id": "3caa3c76-9270-427a-9b06-2bde5335b8cf",
+      "tokenHash": "6e24952975e21d7ef9f5c850f375713a7882a62fbd0e2fbf90dd858325acb80b",
+      "tokenCiphertext": "v1.vhhiLqNfDto0_l-r.WmIx6w30feBt6GZMlIQrEg.zAKQ-QG1pbe0QPIwkxYyA-mV0ovjRnrMAy3Wp_GMeINBA0MNch6I3jUPiQ",
+      "scopeType": "module",
+      "scopeId": "b29872df-9f28-4467-b945-361bda7c1c7d",
+      "status": "active",
+      "expiresAt": null
     }
   ],
   "schemaVersion": 1,
