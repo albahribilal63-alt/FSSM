@@ -89,6 +89,14 @@
       "type": "exercise",
       "order": 2,
       "visibility": "public"
+    },
+    {
+      "id": "d5b20dbb-0a60-42cc-8395-0278831313bd",
+      "moduleId": "356580aa-dfa9-4f56-a809-99c0d9e42d97",
+      "title": "test-2",
+      "type": "project",
+      "order": 3,
+      "visibility": "public"
     }
   ],
   "assets": [
