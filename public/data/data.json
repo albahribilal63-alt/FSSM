@@ -111,6 +111,15 @@
       "scopeId": "f48d1a92-2938-4bcb-beca-f57b5b7f509c",
       "status": "revoked",
       "expiresAt": null
+    },
+    {
+      "id": "7504d827-8519-4e66-9d61-53aca61e3c2d",
+      "tokenHash": "88662f0d5c678194f8f4ef18b6da21e4a1613fbba6e9850116a2e8e26dcd1871",
+      "tokenCiphertext": "v1.GEQwHI7HLyWg-__A.r5LvVeXQkjULOr2aHLTpnQ.Y_jWlPJlO48CiR4xRsSWbOLiZiK7k73P8iHfrM9nfQYYOoFTcMnR8wVfsA",
+      "scopeType": "module",
+      "scopeId": "abe87ffa-f1a4-4509-bf72-e6a0b1d180b1",
+      "status": "active",
+      "expiresAt": null
     }
   ],
   "schemaVersion": 1,
