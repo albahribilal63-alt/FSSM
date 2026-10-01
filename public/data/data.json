@@ -21,6 +21,11 @@
     "apogee": "2518966",
     "program": "TC",
     "branch": "INFO",
+    "photo": {
+      "id": "9554a2fe-1c01-42dc-aff2-b7a32b8b6a64",
+      "path": "public/storage/profile/9554a2fe-1c01-42dc-aff2-b7a32b8b6a64.png",
+      "type": "PNG"
+    },
     "fullName": ""
   },
   "years": [
