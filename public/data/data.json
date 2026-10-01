@@ -58,8 +58,8 @@
     {
       "id": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
       "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "M1_Structure-de-donn?es-en-C",
-      "name": "M1 = Structure de donn?es en C",
+      "code": "M1_Structure-de-donnes-en-C",
+      "name": "M1 = Structure de donnes en C",
       "description": "",
       "order": 1,
       "visibility": "public"
