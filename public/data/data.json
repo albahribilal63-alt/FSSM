@@ -67,17 +67,17 @@
     {
       "id": "6b54d6db-d877-46db-a683-a7d84b074e93",
       "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "M2 = Recherche Op?rationnelle & Optimisation",
-      "name": "M2 = Recherche Op?rationnelle & Optimisation",
+      "code": "M2 = Recherche Operationnelle & Optimisation",
+      "name": "M2 = Recherche Operationnelle & Optimisation",
       "description": "",
       "order": 2,
-      "visibility": "private"
+      "visibility": "public"
     },
     {
       "id": "12da5901-b12f-4c89-9f43-9cfe84192b00",
       "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "M3 = Syst?me d'exploitation 1",
-      "name": "M3 = Syst?me d'exploitation 1",
+      "code": "M3 = Systeme d'exploitation 1",
+      "name": "M3 = Systeme d'exploitation 1",
       "description": "",
       "order": 3,
       "visibility": "public"
@@ -85,8 +85,8 @@
     {
       "id": "70cdeccd-841f-4b44-8b78-287170fae243",
       "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "M4 = Probabilit?s et Statistiques",
-      "name": "M4 = Probabilit?s et Statistiques",
+      "code": "M4 = Probabilites et Statistiques",
+      "name": "M4 = Probabilites et Statistiques",
       "description": "",
       "order": 4,
       "visibility": "public"
@@ -103,8 +103,8 @@
     {
       "id": "b29872df-9f28-4467-b945-361bda7c1c7d",
       "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "M6 = Mod?lisation objet UML",
-      "name": "M6 = Mod?lisation objet UML",
+      "code": "M6 = Modelisation objet UML",
+      "name": "M6 = Modelisation objet UML",
       "description": "",
       "order": 6,
       "visibility": "public"
@@ -112,8 +112,8 @@
     {
       "id": "6528f5d6-d65a-4937-8448-115bd0c30e3b",
       "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
-      "code": "M7 = Fran?ais",
-      "name": "M7 = Fran?ais",
+      "code": "M7 = Francais",
+      "name": "M7 = Francais",
       "description": "",
       "order": 7,
       "visibility": "public"
