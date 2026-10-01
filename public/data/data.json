@@ -161,12 +161,12 @@
     },
     {
       "id": "059f327c-d85f-4e1c-8346-d339eb6bac31",
-      "activityId": "175917a2-3497-4aac-9790-0b1d89eb4b88",
+      "activityId": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
       "name": "ex01.php",
       "type": "CODE",
       "path": "public/storage/docs/059f327c-d85f-4e1c-8346-d339eb6bac31.code",
-      "order": 2,
-      "visibility": "private"
+      "order": 1,
+      "visibility": "public"
     },
     {
       "id": "8830402b-5bae-4063-9620-7db40838f973",
