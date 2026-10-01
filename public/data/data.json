@@ -241,6 +241,106 @@
       "scopeId": "175917a2-3497-4aac-9790-0b1d89eb4b88",
       "status": "active",
       "expiresAt": null
+    },
+    {
+      "id": "c823976a-248d-4c42-adba-ebca31c65f17",
+      "tokenHash": "58e2f1eb28c7979d3c6bf4c709f62d1c65ab046f03a80b0966fba3ebb9fa444c",
+      "tokenCiphertext": "v1.RYAOOWa92kQW9_3Z.uk8nuIhbMUXCv0OeKMm9Ng.346uY43owIoH6VyglL1UIfFYQYiLx8bfeyNGxDawKVCMZHzP9Qc_neOoHA",
+      "scopeType": "module",
+      "scopeId": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "34f81b6e-5f39-4dba-abde-d9f3551dcb40",
+      "tokenHash": "9f961f1ba835d2c82e12571579bc2be761494646f60554934b2840892de6364d",
+      "tokenCiphertext": "v1.OcieuQPWwAOfpT_z.ppZ7IAMlwRctCdNHATYnPg.KegyLCpEahKinzi43NRHczeyOnIY0MA1iRzvsHwAqNKpUeN08HESoOTOng",
+      "scopeType": "module",
+      "scopeId": "6b54d6db-d877-46db-a683-a7d84b074e93",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "3843a2e8-5ac3-4e01-85af-f1c310b6add1",
+      "tokenHash": "a50a475b520cc942524f714dd56040f352e78bfb42b12ab7775721f0d48dc8b2",
+      "tokenCiphertext": "v1.3mX9WjXRxSxDj4iV.JUT4hC1PSGTIjFiPScqZoQ.M90ab1CyVMM29PEcFsjjCGigYeH3K3pDIgizqFOjGr7oyXTpEvPvniujVw",
+      "scopeType": "module",
+      "scopeId": "12da5901-b12f-4c89-9f43-9cfe84192b00",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "00834b8c-d111-494b-9989-5467801c938a",
+      "tokenHash": "c56ce6f942aabe6f5c91b4060534accf6e1f759d5154cb9480b42bae3b8d20c2",
+      "tokenCiphertext": "v1.8ElbGGWiUXP1gUyf.fCgwXoDvUah36jOvZd3v2Q.hufkzbz0LvdV219jhTD1niPQVI9GzgSBgndiSHCnznIQVz_FI4rA1IalJg",
+      "scopeType": "module",
+      "scopeId": "70cdeccd-841f-4b44-8b78-287170fae243",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "14dd9488-5575-4e1e-9863-ebfaceb7a495",
+      "tokenHash": "ce3e923a6ec410840638af6295bd5f30dbd360c63188550956718672b80baecf",
+      "tokenCiphertext": "v1.mz7Zx9Qd23CMyLVI.M0Oztu92C5DPF7iDj4nzhg.dv8B55AWAWwAUnqyGrqChTjVK-cncpa80bzsYurWgjdr1jkv1PoOdgvq3g",
+      "scopeType": "module",
+      "scopeId": "1b52aa71-f9e5-45bb-95c6-763409c360b7",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "749e9bf0-06a3-4b14-b825-10a5fce064c2",
+      "tokenHash": "31d95ef0113c2b2cd76161de52120f27755799f194ba9a5efff85d299aa7fe36",
+      "tokenCiphertext": "v1.PmLO_epMY_-penYJ.Q9e-TiaPHDKkmpWnf4k0xQ.BDFRa3CscmWfhnpXLyrJ6aUTWIwLh5q6T6qKjsjYlM6_ROE5kUWQ9uLHtQ",
+      "scopeType": "module",
+      "scopeId": "b29872df-9f28-4467-b945-361bda7c1c7d",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "6d99130e-5a53-4d3b-9071-6d2b504b06f8",
+      "tokenHash": "f2dc4679a96a3ffbab4343346936e7621a8ca38de0c74f2cedaf39cea4639620",
+      "tokenCiphertext": "v1.1xSFKfgxj_AOD_Ry.jXIfrEodXMSxt4cOcKW0Jw.FpU6qS_orV_DTh-xYIBgiBVwO7PeMgqfDZN95apKTaZCVycN4IJQHFasmg",
+      "scopeType": "module",
+      "scopeId": "6528f5d6-d65a-4937-8448-115bd0c30e3b",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "22cb08e0-238f-44e3-991b-43ae348faf32",
+      "tokenHash": "14b3c1ed448f5360669411e45b0249a43f6c861acac537fb7bdc0c788316bcbb",
+      "tokenCiphertext": "v1.Z5bC_D_W6xWlVZBO.EOagZZO9lo705r-h9WrN0Q.5eoO2OZ0n05-5OF_3HSHSxhF6W5RctwAwdCFJjppxIqfmHo3nnl8T--lnA",
+      "scopeType": "activity",
+      "scopeId": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "d91c4d12-1f7a-4610-8506-ff3fb8acb915",
+      "tokenHash": "1e5725bfdb568071131e527f29c36e4dde8bc26960186b357f09ed83c34d2e81",
+      "tokenCiphertext": "v1.f1QuoOpNOA340AFe.IOEXwLUvO3Ba4XL7Y29nmg.WS2PEnTbeBbHIXXYowoCkpQWvfOkVbwskjUgWUHAFfWXlB3HlPpqfPbTgA",
+      "scopeType": "activity",
+      "scopeId": "175917a2-3497-4aac-9790-0b1d89eb4b88",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "bcb77719-f0dd-4737-8152-7a13d8e8648f",
+      "tokenHash": "206ba19cee1c5e49586634787febd940c8039fa23ce80505409b79a5859bbfa2",
+      "tokenCiphertext": "v1.ZeYpQ3ak6D7hlrYn.xhBTvRSUeX7QU56Wan9CfQ.6Eg2oyvMqwZKNIpM8aGmKq2Hcnfcj6wcrEhP819cM8RiqbrE7TUfmtrmXg",
+      "scopeType": "activity",
+      "scopeId": "50775b39-7fb5-466b-a7fe-6220ccbe0122",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
     }
   ],
   "professorFeedback": [
