@@ -185,6 +185,15 @@
       "path": "public/storage/docs/33a08c49-ea5b-496d-8ea0-c51e4ba729cc.code",
       "order": 3,
       "visibility": "public"
+    },
+    {
+      "id": "e57c1a35-7886-4fdf-916e-4a26be1be5d1",
+      "activityId": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
+      "name": "Correction_Exercice_UML_Simple.docx",
+      "type": "DOCX",
+      "path": "public/storage/docs/e57c1a35-7886-4fdf-916e-4a26be1be5d1.docx",
+      "order": 4,
+      "visibility": "public"
     }
   ],
   "isolatedLinks": [
