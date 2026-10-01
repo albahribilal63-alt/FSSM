@@ -116,14 +116,6 @@
   ],
   "activities": [
     {
-      "id": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
-      "moduleId": "1b52aa71-f9e5-45bb-95c6-763409c360b7",
-      "title": "TP",
-      "type": "exercise",
-      "order": 1,
-      "visibility": "public"
-    },
-    {
       "id": "175917a2-3497-4aac-9790-0b1d89eb4b88",
       "moduleId": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
       "title": "TP_1",
@@ -137,6 +129,14 @@
       "title": "TP2",
       "type": "exercise",
       "order": 2,
+      "visibility": "public"
+    },
+    {
+      "id": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
+      "moduleId": "1b52aa71-f9e5-45bb-95c6-763409c360b7",
+      "title": "TP",
+      "type": "exercise",
+      "order": 1,
       "visibility": "public"
     }
   ],
