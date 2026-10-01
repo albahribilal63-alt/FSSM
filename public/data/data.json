@@ -152,6 +152,15 @@
       "path": "public/storage/docs/f504ebb2-c335-460c-91a8-c865d01732f2.pdf",
       "order": 1,
       "visibility": "public"
+    },
+    {
+      "id": "059f327c-d85f-4e1c-8346-d339eb6bac31",
+      "activityId": "175917a2-3497-4aac-9790-0b1d89eb4b88",
+      "name": "ex01.php",
+      "type": "CODE",
+      "path": "public/storage/docs/059f327c-d85f-4e1c-8346-d339eb6bac31.code",
+      "order": 2,
+      "visibility": "private"
     }
   ],
   "isolatedLinks": [
