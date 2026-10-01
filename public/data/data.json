@@ -226,6 +226,15 @@
       "scopeId": "6528f5d6-d65a-4937-8448-115bd0c30e3b",
       "status": "active",
       "expiresAt": null
+    },
+    {
+      "id": "70dea65e-b0ce-4f83-8624-9a5fd2efe042",
+      "tokenHash": "d8bb58106b4f4142007f41c550bac04d08eef3cc1e0efc43e3c7cad5728b8122",
+      "tokenCiphertext": "v1.0pa2Cpl4iZaESE_A.NPRlqs28NNkNcx6jbw29cw.oHm-f_PwJIwiymFsMZhjDPojz-TKGZ_Dv5pYWKTdQFgS1VTQhT17JFGAfw",
+      "scopeType": "activity",
+      "scopeId": "175917a2-3497-4aac-9790-0b1d89eb4b88",
+      "status": "active",
+      "expiresAt": null
     }
   ],
   "professorFeedback": [
