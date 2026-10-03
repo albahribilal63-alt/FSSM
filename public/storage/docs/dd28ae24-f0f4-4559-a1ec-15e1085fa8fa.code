@@ -1,0 +1,73 @@
+#include <stdio.h>
+
+// 1°/ تعريف هيكل Article
+typedef struct {
+    short numero;
+    char libelle[29];
+    short quantite;
+    float prix;
+} Article;
+
+// 2°/ دالة إدخال مقال واحد
+void SaisieArticle(Article *a) {
+    printf("Entrer le numero de l'article : ");
+    scanf("%hd", &(a->numero));
+    printf("Entrer le libelle (max 28 caracteres) : ");
+    scanf("%s", a->libelle);
+    printf("Entrer la quantite en stock : ");
+    scanf("%hd", &(a->quantite));
+    printf("Entrer le prix : ");
+    scanf("%f", &(a->prix));
+}
+
+// 3°/ دالة عرض مقال واحد
+void AfficheArticle(Article a) {
+    printf("Numero : %hd | Libelle : %s | Quantite : %hd | Prix : %.2f DA\n", 
+           a.numero, a.libelle, a.quantite, a.prix);
+}
+
+// 4°/ دالة ملء جدول من المقالات
+void SaisieTabArticle(Article T[], int n) {
+    int i;
+    for(i = 0; i < n; i++) {
+        printf("\n--- Saisie de l'article %d ---\n", i + 1);
+        SaisieArticle(&T[i]);
+    }
+}
+
+// 5°/ دالة عرض المقالات التي تتجاوز كميتها في المخزون قيمة q
+void AfficheTabStock(Article T[], int n, short q) {
+    int i, trouve = 0;
+    printf("\n--- Articles avec une quantite superieure a %hd ---\n", q);
+    for(i = 0; i < n; i++) {
+        if(T[i].quantite > q) {
+            AfficheArticle(T[i]);
+            trouve = 1;
+        }
+    }
+    if(!trouve) {
+        printf("Aucun article ne correspond a ce critere.\n");
+    }
+}
+
+// 6°/ البرنامج الرئيسي (main)
+int main() {
+    int n;
+    short q;
+    
+    printf("Donner le nombre d'articles : ");
+    scanf("%d", &n);
+    
+    Article T[n]; // التصريح عن جدول المقالات
+    
+    // إدخال بيانات المقالات
+    SaisieTabArticle(T, n);
+    
+    printf("\nDonner la valeur minimale de la quantite (q) : ");
+    scanf("%hd", &q);
+    
+    // عرض المقالات بناءً على الكمية
+    AfficheTabStock(T, n, q);
+    
+    return 0;
+}
