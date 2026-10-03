@@ -233,6 +233,15 @@
       "path": "public/storage/docs/853f15e8-9c5d-4a9c-b630-4dd4ea6450a6.pdf",
       "order": 1,
       "visibility": "public"
+    },
+    {
+      "id": "dd28ae24-f0f4-4559-a1ec-15e1085fa8fa",
+      "activityId": "175917a2-3497-4aac-9790-0b1d89eb4b88",
+      "name": "tp-ex2.c",
+      "type": "CODE",
+      "path": "public/storage/docs/dd28ae24-f0f4-4559-a1ec-15e1085fa8fa.code",
+      "order": 1,
+      "visibility": "public"
     }
   ],
   "isolatedLinks": [
