@@ -160,6 +160,14 @@
       "type": "exercise",
       "order": 2,
       "visibility": "public"
+    },
+    {
+      "id": "0f29b727-90ee-4c6f-bf7f-51aebd00c28c",
+      "moduleId": "82e9c55e-a7ca-4004-afbb-5b2fa4c7016d",
+      "title": "Test",
+      "type": "exercise",
+      "order": 1,
+      "visibility": "public"
     }
   ],
   "assets": [
@@ -407,6 +415,16 @@
       "tokenCiphertext": "v1.joSj2ycgztXJVxBT.smRzHrT4hXFPVx3JlMpBWg.scrLAEVlmKEXMJGb7oRHVglkWtuX4qfn8-ZJ7t_gD8fG-Ro9cw_PEOIHIg",
       "scopeType": "module",
       "scopeId": "82e9c55e-a7ca-4004-afbb-5b2fa4c7016d",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "dcc62078-b928-4ce1-8910-088e2a64bce7",
+      "tokenHash": "8256cf4c8a81b0ac17a3897c713b4e7b95f038a3baf546991397f6eff4f947d2",
+      "tokenCiphertext": "v1.2AbFuDpfMkau7o80.VMak9qaSRr0seJ09dpnHCg.EJclGyfz4aP3xachFjDwQTV7wr1FDlffAybiBQq0NvMtrU2BPiD1jM3t8Q",
+      "scopeType": "activity",
+      "scopeId": "0f29b727-90ee-4c6f-bf7f-51aebd00c28c",
       "purpose": "primary-professor",
       "status": "active",
       "expiresAt": null
