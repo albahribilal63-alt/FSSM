@@ -117,6 +117,15 @@
       "description": "",
       "order": 7,
       "visibility": "public"
+    },
+    {
+      "id": "82e9c55e-a7ca-4004-afbb-5b2fa4c7016d",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "Test",
+      "name": "Test",
+      "description": "",
+      "order": 8,
+      "visibility": "public"
     }
   ],
   "activities": [
@@ -388,6 +397,16 @@
       "tokenCiphertext": "v1._1uF5VkikI2aTNoN.KmXZxckwIs0NjX-YhIBOmg.LVLTTa15QhiyUp_a4GE_YedP4i-1xqBdhpE0ouM9uN4bW_tByLEdI1Vc2g",
       "scopeType": "activity",
       "scopeId": "29a94755-0bbb-4dcf-86ac-93e307cf42e0",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "2d2b40ee-3397-4278-9732-c03caa22a1d1",
+      "tokenHash": "0a7cd059bb4e7c158ab45764d18b1face4e51a0adce3a13fdd3f00f9bfe2b2d3",
+      "tokenCiphertext": "v1.joSj2ycgztXJVxBT.smRzHrT4hXFPVx3JlMpBWg.scrLAEVlmKEXMJGb7oRHVglkWtuX4qfn8-ZJ7t_gD8fG-Ro9cw_PEOIHIg",
+      "scopeType": "module",
+      "scopeId": "82e9c55e-a7ca-4004-afbb-5b2fa4c7016d",
       "purpose": "primary-professor",
       "status": "active",
       "expiresAt": null
