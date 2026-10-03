@@ -126,6 +126,15 @@
       "description": "",
       "order": 8,
       "visibility": "public"
+    },
+    {
+      "id": "802a72e8-43cf-4cb7-9299-4063243ee09f",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "ملخصات",
+      "name": "ملخصات",
+      "description": "",
+      "order": 9,
+      "visibility": "private"
     }
   ],
   "activities": [
@@ -443,6 +452,16 @@
       "tokenCiphertext": "v1.2AbFuDpfMkau7o80.VMak9qaSRr0seJ09dpnHCg.EJclGyfz4aP3xachFjDwQTV7wr1FDlffAybiBQq0NvMtrU2BPiD1jM3t8Q",
       "scopeType": "activity",
       "scopeId": "0f29b727-90ee-4c6f-bf7f-51aebd00c28c",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "ae2ae1bd-0b35-4936-8c0b-6137052ac136",
+      "tokenHash": "d2d07e5334008b7b93f222b542b37fca80641703627369bcd9e473fb5d55394e",
+      "tokenCiphertext": "v1.S_r3VAeTT5fu5sgC.2mHq_Jdi7VoukSGisffeAQ.HMj3dRWjDLPNBzsSrl3h_Myr7fwfC3Blfm6WbY9FyGNwH5qvtagDeu6V1A",
+      "scopeType": "module",
+      "scopeId": "802a72e8-43cf-4cb7-9299-4063243ee09f",
       "purpose": "primary-professor",
       "status": "active",
       "expiresAt": null
