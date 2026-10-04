@@ -1,0 +1,528 @@
+{
+  "site": {
+    "description": "",
+    "name": "Academic Portfolio & Isolated Assessment Hub",
+    "shortName": "Academic Portfolio",
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": ""
+    },
+    "social": {
+      "github": "",
+      "linkedin": "",
+      "instagram": ""
+    }
+  },
+  "profile": {
+    "lastName": "ELBAHRI",
+    "firstName": "Bilal",
+    "filiere": "Informatique applique S3",
+    "section": "Section I",
+    "tdGroup": "Gr_01",
+    "name": "Bilal ELBAHRI",
+    "institution": "fssm",
+    "cne": "PB400220",
+    "apogee": "2518966",
+    "program": "TC",
+    "branch": "INFO",
+    "semester": "S3",
+    "photo": {
+      "id": "e8471c33-642b-4e99-a18b-cba1be392713",
+      "path": "public/storage/profile/e8471c33-642b-4e99-a18b-cba1be392713.png",
+      "type": "PNG"
+    },
+    "fullName": ""
+  },
+  "years": [
+    {
+      "id": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "name": "2026/2027",
+      "status": "current",
+      "order": 1
+    },
+    {
+      "id": "1a0d42e0-bf95-4807-a017-10c4c23175a8",
+      "name": "2027/2028",
+      "status": "upcoming",
+      "order": 2
+    },
+    {
+      "id": "63b530a4-0f8e-4c65-a837-8cffb7238971",
+      "name": "2025/2026",
+      "status": "previous",
+      "order": 3
+    }
+  ],
+  "modules": [
+    {
+      "id": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "M1_Structure-de-donnes-en-C",
+      "name": "M1 = Structure de donnes en C",
+      "description": "",
+      "order": 1,
+      "visibility": "public"
+    },
+    {
+      "id": "6b54d6db-d877-46db-a683-a7d84b074e93",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "M2 = Recherche Operationnelle & Optimisation",
+      "name": "M2 = Recherche Operationnelle & Optimisation",
+      "description": "",
+      "order": 2,
+      "visibility": "public"
+    },
+    {
+      "id": "12da5901-b12f-4c89-9f43-9cfe84192b00",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "M3 = Systemee d'exploitation 1",
+      "name": "M3 = Systemee d'exploitation 1",
+      "description": "",
+      "order": 3,
+      "visibility": "public"
+    },
+    {
+      "id": "70cdeccd-841f-4b44-8b78-287170fae243",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "M4 = Probabilites et Statistiques",
+      "name": "M4 = Probabilites et Statistiques",
+      "description": "",
+      "order": 4,
+      "visibility": "public"
+    },
+    {
+      "id": "1b52aa71-f9e5-45bb-95c6-763409c360b7",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "M5 = Programmation Web 2",
+      "name": "M5 = Programmation Web 2",
+      "description": "",
+      "order": 5,
+      "visibility": "public"
+    },
+    {
+      "id": "b29872df-9f28-4467-b945-361bda7c1c7d",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "M6 = Modelisation objet UML",
+      "name": "M6 = Modelisation objet UML",
+      "description": "",
+      "order": 6,
+      "visibility": "public"
+    },
+    {
+      "id": "6528f5d6-d65a-4937-8448-115bd0c30e3b",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "M7 = Francais",
+      "name": "M7 = Francais",
+      "description": "",
+      "order": 7,
+      "visibility": "public"
+    },
+    {
+      "id": "82e9c55e-a7ca-4004-afbb-5b2fa4c7016d",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "Test",
+      "name": "Test",
+      "description": "",
+      "order": 8,
+      "visibility": "public"
+    },
+    {
+      "id": "802a72e8-43cf-4cb7-9299-4063243ee09f",
+      "yearId": "629502f5-60d7-4bfb-a79a-25db5db0ff56",
+      "code": "ملخصات",
+      "name": "ملخصات",
+      "description": "",
+      "order": 9,
+      "visibility": "private"
+    }
+  ],
+  "activities": [
+    {
+      "id": "175917a2-3497-4aac-9790-0b1d89eb4b88",
+      "moduleId": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
+      "title": "TP_1",
+      "type": "exercise",
+      "order": 1,
+      "visibility": "public"
+    },
+    {
+      "id": "50775b39-7fb5-466b-a7fe-6220ccbe0122",
+      "moduleId": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
+      "title": "TP2",
+      "type": "exercise",
+      "order": 2,
+      "visibility": "public"
+    },
+    {
+      "id": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
+      "moduleId": "1b52aa71-f9e5-45bb-95c6-763409c360b7",
+      "title": "TP 1",
+      "type": "exercise",
+      "order": 1,
+      "visibility": "public"
+    },
+    {
+      "id": "29a94755-0bbb-4dcf-86ac-93e307cf42e0",
+      "moduleId": "1b52aa71-f9e5-45bb-95c6-763409c360b7",
+      "title": "TP 2",
+      "type": "exercise",
+      "order": 2,
+      "visibility": "public"
+    },
+    {
+      "id": "0f29b727-90ee-4c6f-bf7f-51aebd00c28c",
+      "moduleId": "82e9c55e-a7ca-4004-afbb-5b2fa4c7016d",
+      "title": "Test",
+      "type": "exercise",
+      "order": 1,
+      "visibility": "public"
+    },
+    {
+      "id": "d1fb0227-1eca-41d0-a864-b12ed74d1a82",
+      "moduleId": "802a72e8-43cf-4cb7-9299-4063243ee09f",
+      "title": "c",
+      "type": "lesson",
+      "order": 1,
+      "visibility": "private"
+    }
+  ],
+  "assets": [
+    {
+      "id": "5c52eeec-6910-4c5a-8a8b-043f67395725",
+      "activityId": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
+      "name": "Correction_Exercice_UML_Simple(1).pdf",
+      "type": "PDF",
+      "path": "public/storage/docs/5c52eeec-6910-4c5a-8a8b-043f67395725.pdf",
+      "order": 5,
+      "visibility": "public"
+    },
+    {
+      "id": "f504ebb2-c335-460c-91a8-c865d01732f2",
+      "activityId": "50775b39-7fb5-466b-a7fe-6220ccbe0122",
+      "name": "TD.pdf",
+      "type": "PDF",
+      "path": "public/storage/docs/f504ebb2-c335-460c-91a8-c865d01732f2.pdf",
+      "order": 1,
+      "visibility": "public"
+    },
+    {
+      "id": "059f327c-d85f-4e1c-8346-d339eb6bac31",
+      "activityId": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
+      "name": "ex01.php",
+      "type": "CODE",
+      "path": "public/storage/docs/059f327c-d85f-4e1c-8346-d339eb6bac31.code",
+      "order": 1,
+      "visibility": "public"
+    },
+    {
+      "id": "8830402b-5bae-4063-9620-7db40838f973",
+      "activityId": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
+      "name": "ex02.php",
+      "type": "CODE",
+      "path": "public/storage/docs/8830402b-5bae-4063-9620-7db40838f973.code",
+      "order": 2,
+      "visibility": "public"
+    },
+    {
+      "id": "33a08c49-ea5b-496d-8ea0-c51e4ba729cc",
+      "activityId": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
+      "name": "TP_01_PHP.md",
+      "type": "CODE",
+      "path": "public/storage/docs/33a08c49-ea5b-496d-8ea0-c51e4ba729cc.code",
+      "order": 3,
+      "visibility": "public"
+    },
+    {
+      "id": "e57c1a35-7886-4fdf-916e-4a26be1be5d1",
+      "activityId": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
+      "name": "Correction_Exercice_UML_Simple.docx",
+      "type": "DOCX",
+      "path": "public/storage/docs/e57c1a35-7886-4fdf-916e-4a26be1be5d1.docx",
+      "order": 4,
+      "visibility": "public"
+    },
+    {
+      "id": "853f15e8-9c5d-4a9c-b630-4dd4ea6450a6",
+      "activityId": "0f29b727-90ee-4c6f-bf7f-51aebd00c28c",
+      "name": "Tp1 (bonus).pdf",
+      "type": "PDF",
+      "path": "public/storage/docs/853f15e8-9c5d-4a9c-b630-4dd4ea6450a6.pdf",
+      "order": 1,
+      "visibility": "public"
+    },
+    {
+      "id": "dd28ae24-f0f4-4559-a1ec-15e1085fa8fa",
+      "activityId": "175917a2-3497-4aac-9790-0b1d89eb4b88",
+      "name": "tp-ex2.c",
+      "type": "CODE",
+      "path": "public/storage/docs/dd28ae24-f0f4-4559-a1ec-15e1085fa8fa.code",
+      "order": 1,
+      "visibility": "public"
+    }
+  ],
+  "isolatedLinks": [
+    {
+      "id": "cc579dd6-f71e-4955-8308-305406185309",
+      "tokenHash": "a482e60ec3bd3fcfab9da580df13c7bbdda42dad5f290a84777b3e0688170393",
+      "tokenCiphertext": "v1.gjEdmaO_pdCZZNBd.yGsS_FihFg74xB1gXv1ulw.F_928XROOZEqXW_pJayD-NlyXGV7KX0zjoBrgUgo8KxqYSH919GfLY7jsg",
+      "scopeType": "module",
+      "scopeId": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "4e63d932-d472-443c-b9f2-98516b2641bc",
+      "tokenHash": "ec98cc393532798d93bf980a1f2ee09a2ed892e1295c58f619ce2d0c39491c3c",
+      "tokenCiphertext": "v1.QdiFfQ-V9DqGTI0I.-eRczNSleiI5UR39ALNOlw.9wRsqJ_Ij1GkDJ5rrXIj_wQA8S2hQmNOGUo1unbbNszUEkQzXcNq_OfkaQ",
+      "scopeType": "module",
+      "scopeId": "6b54d6db-d877-46db-a683-a7d84b074e93",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "713219cc-b66b-48a2-b849-6a23f96a1f0d",
+      "tokenHash": "fcc5daaf40ac5dd7de3f6688915fd46721d7d43873aa0145b201b52ca1101dfc",
+      "tokenCiphertext": "v1.vuZaOhh9v45uRLCZ.Zj424BuOUfwpmpI_sphtYQ.qIVPnZ85RlKQmvJcTGXVwMbrsw7DBo3ZyYWQlxeiU_QngFrITfzHphOfhA",
+      "scopeType": "module",
+      "scopeId": "12da5901-b12f-4c89-9f43-9cfe84192b00",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "fcc111c7-d28c-48f8-84af-2dabdddb35b9",
+      "tokenHash": "4f90d27259d23f330e0159e5f288bfc9b7efb7df5fef983d59798c3344c9b0be",
+      "tokenCiphertext": "v1.g9Zo_LNHIanCCHDU.dPECLpDvDnRIqwY9-23wpA.b4ope-q1mjCpb4wqpQjbueZ9pqyQPWvy-RJ93LWsE1iwxb0jZZpOd2DqCg",
+      "scopeType": "module",
+      "scopeId": "70cdeccd-841f-4b44-8b78-287170fae243",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "1db576c5-7741-43ab-b0d4-b35564b640ac",
+      "tokenHash": "29edf096661a83029540acd1f355b3adc3af414963428053112f731b3d21e332",
+      "tokenCiphertext": "v1.dY0GSHl4evtY_lGb.mW06AXonNP8f3kDZobow8Q.PD-cEoUDSgGeXh56ARXdj95mv1wyDYqM3Kjlb_l9FnKLht_xm4MpQOe4eg",
+      "scopeType": "module",
+      "scopeId": "1b52aa71-f9e5-45bb-95c6-763409c360b7",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "3caa3c76-9270-427a-9b06-2bde5335b8cf",
+      "tokenHash": "46d1965e641408e2dfef35b111b5b771b57c81adabc49238fac7b09568de6cd1",
+      "tokenCiphertext": "v1.PCXUphFREHBKSKRl.VCsEjZfG7JDj5yVW-0LUTA.kaqpl1i_J7LWhW_VmbfAisvsu3PgmAkPPn9BJscKYGe1rWAyq7CKzR4c2g",
+      "scopeType": "module",
+      "scopeId": "b29872df-9f28-4467-b945-361bda7c1c7d",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "8340b987-9a76-4d27-b78b-9216312d84e0",
+      "tokenHash": "10ab5bea5a97887e8ba1356e6efe4c232ee58e83b8c2438c43e74a235a4a0cbc",
+      "tokenCiphertext": "v1.u4SEsfFLU1wzHLIT.S6ukk_JbUoD3sV4ZOYNxPw.CuobjDasvtfxHsZwdPs9rA43tNmH7I537Z0mBZ424Uol2BhNc4Aq8GMv5g",
+      "scopeType": "module",
+      "scopeId": "6528f5d6-d65a-4937-8448-115bd0c30e3b",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "70dea65e-b0ce-4f83-8624-9a5fd2efe042",
+      "tokenHash": "6267117b2e72da065a39a77739dda4d0b194c2fc1dd319f2b4eafb474bfec023",
+      "tokenCiphertext": "v1.Rywk788f0tnAQqL_.Lf2xVIDDohtgYsZOIl1viQ.rCPH1WF2i4WeB-3x4YR-l4o-KGJXDIW45WppDnUcoWFDa1y557rB97FSIA",
+      "scopeType": "activity",
+      "scopeId": "175917a2-3497-4aac-9790-0b1d89eb4b88",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "c823976a-248d-4c42-adba-ebca31c65f17",
+      "tokenHash": "942a699529f7a2c0baf70b73098ebf7781e2abec0d76324a55fb52950176ff9a",
+      "tokenCiphertext": "v1.qgM1983Q8Ztq58ka.rSGcZLJJUu-wDBMuviCEaw.RSKAVThL0-wT27cAuwBAijdzQXhSkzhM6K-o0U-V4kwIoMUwu-cNXF9SVQ",
+      "scopeType": "module",
+      "scopeId": "03d339d1-e9b1-4e9c-9a23-92bdcad84561",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "34f81b6e-5f39-4dba-abde-d9f3551dcb40",
+      "tokenHash": "d9c551be53d10f60c89ed4f9bcf3056e31af2c90913b76d601c6698c09937f64",
+      "tokenCiphertext": "v1.S7K_4CfriHIO_jW9.PVlJe3xY5dbNQMH0InUkdg.t85f8mPKX2UXCzOZoWRmoBdvAn27zHDztrML3TcA19Tqiks-j8PxXHO2lg",
+      "scopeType": "module",
+      "scopeId": "6b54d6db-d877-46db-a683-a7d84b074e93",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "3843a2e8-5ac3-4e01-85af-f1c310b6add1",
+      "tokenHash": "6dcbbdc043afd091a8335cc6a4d608aa8d9437abb960dfb5303080e720d08783",
+      "tokenCiphertext": "v1.npsnCWoM9y0g3z1V.qCjeokMVSagt5ltPBjDFdg.hZfuWYjZVzpyEnK5RdZweHBm3J8oouK2P_WU57nv2kiZcOWKs6pDJ6oUDQ",
+      "scopeType": "module",
+      "scopeId": "12da5901-b12f-4c89-9f43-9cfe84192b00",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "00834b8c-d111-494b-9989-5467801c938a",
+      "tokenHash": "ea6231b82e860c02e89402dc2a61f9cfd9ad0f23def17a292c406c4088daf9a6",
+      "tokenCiphertext": "v1.-PCs8S-F-nLoisN5.yK4cTv4SM6G9rJKCU638JQ.djz3_z58tt-OAG8tXWGWFOKPiWyYkltw9QcbIXguCNw7p7_zMDp1G9aq2g",
+      "scopeType": "module",
+      "scopeId": "70cdeccd-841f-4b44-8b78-287170fae243",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "14dd9488-5575-4e1e-9863-ebfaceb7a495",
+      "tokenHash": "4c8fd53f975bc05fbe97a0ea0d3d3cfff8d11e30772043d38cdf593203f5d2b7",
+      "tokenCiphertext": "v1.PSNidLHfnsAEAr7y.RKEhPADnkg9oaVpH4km5zw.x4qEObaYtUUouWpO4h6FesWNPsb-kY2CYvPxzJcenqQzz-Z6prKOOjfANA",
+      "scopeType": "module",
+      "scopeId": "1b52aa71-f9e5-45bb-95c6-763409c360b7",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "749e9bf0-06a3-4b14-b825-10a5fce064c2",
+      "tokenHash": "e2183bedbc2957f9505a36b5eb29d63693f59036c62de6fa16db2a51029a40d8",
+      "tokenCiphertext": "v1.XH9ebf5r_dVMZvsu.F0RvH6tMKlrWLGbqDMMyPg.9EIaTDRyBk6sXecovo3cx380KqlybjVsAE5ikVBvz9YjukIILvj0b36o9A",
+      "scopeType": "module",
+      "scopeId": "b29872df-9f28-4467-b945-361bda7c1c7d",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "6d99130e-5a53-4d3b-9071-6d2b504b06f8",
+      "tokenHash": "b9ff7d6cdd4aa2742494d0f2e1ac2bda8608825888c8cde1000b61968a2b7546",
+      "tokenCiphertext": "v1.gUxkhM0v1rnXMdru.TCb1So8z9EYjrqGQ6uGsvw.CyUgeulUMmbfH2MJGsuge_RpHM8Ms1CV5SmlXoELT6gHqUWo43xJaKvhwg",
+      "scopeType": "module",
+      "scopeId": "6528f5d6-d65a-4937-8448-115bd0c30e3b",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "22cb08e0-238f-44e3-991b-43ae348faf32",
+      "tokenHash": "fac792c4dc164cc1d155efaabbf430faedd7501ad26dccd4f2c5c2169e38a772",
+      "tokenCiphertext": "v1.3F9k5bso10lr0Yna.GaSMwXeBvhulV8ek93guPA.mkn1c6xUBYtJr7MTNgJTz15tLLeQeS2llYxNpGJkSxkubEKVby9L8pB-dg",
+      "scopeType": "activity",
+      "scopeId": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "d91c4d12-1f7a-4610-8506-ff3fb8acb915",
+      "tokenHash": "2d27c39a9bf15b56fac7f062a87a4e80cadd1332ec6d84217fda1a5827398cb9",
+      "tokenCiphertext": "v1.Fl9-VmslTwMp8h7U.BD8RS8FBIZteTA6r6MRKqA.-ZEJIFSdCuK87H5mDttVSe_U98MK0cI634g8qaTYCfqje65_cWxO2AtObw",
+      "scopeType": "activity",
+      "scopeId": "175917a2-3497-4aac-9790-0b1d89eb4b88",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "bcb77719-f0dd-4737-8152-7a13d8e8648f",
+      "tokenHash": "c086ef64c549f8b2fcb6a07c0e042e351f9b7552e26d165bdc921d8341b656c8",
+      "tokenCiphertext": "v1.OOvsq6gxJp4wfcXk._sSLKuSgGZuSqumKddSU8w.eWpVKyIwU9fKByIjZSQzaaL6lDB6oMyqTzgndXbvgly8igUvD_MN0rCwSQ",
+      "scopeType": "activity",
+      "scopeId": "50775b39-7fb5-466b-a7fe-6220ccbe0122",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "5082aead-6b18-4e39-a3f6-1fd38906ef4b",
+      "tokenHash": "656345c06aeb90b7545b96bcb3ecb4c54cf5ebf0ad7bbca2edeef929837188b3",
+      "tokenCiphertext": "v1._1uF5VkikI2aTNoN.KmXZxckwIs0NjX-YhIBOmg.LVLTTa15QhiyUp_a4GE_YedP4i-1xqBdhpE0ouM9uN4bW_tByLEdI1Vc2g",
+      "scopeType": "activity",
+      "scopeId": "29a94755-0bbb-4dcf-86ac-93e307cf42e0",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "2d2b40ee-3397-4278-9732-c03caa22a1d1",
+      "tokenHash": "0a7cd059bb4e7c158ab45764d18b1face4e51a0adce3a13fdd3f00f9bfe2b2d3",
+      "tokenCiphertext": "v1.joSj2ycgztXJVxBT.smRzHrT4hXFPVx3JlMpBWg.scrLAEVlmKEXMJGb7oRHVglkWtuX4qfn8-ZJ7t_gD8fG-Ro9cw_PEOIHIg",
+      "scopeType": "module",
+      "scopeId": "82e9c55e-a7ca-4004-afbb-5b2fa4c7016d",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "dcc62078-b928-4ce1-8910-088e2a64bce7",
+      "tokenHash": "8256cf4c8a81b0ac17a3897c713b4e7b95f038a3baf546991397f6eff4f947d2",
+      "tokenCiphertext": "v1.2AbFuDpfMkau7o80.VMak9qaSRr0seJ09dpnHCg.EJclGyfz4aP3xachFjDwQTV7wr1FDlffAybiBQq0NvMtrU2BPiD1jM3t8Q",
+      "scopeType": "activity",
+      "scopeId": "0f29b727-90ee-4c6f-bf7f-51aebd00c28c",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "ae2ae1bd-0b35-4936-8c0b-6137052ac136",
+      "tokenHash": "d2d07e5334008b7b93f222b542b37fca80641703627369bcd9e473fb5d55394e",
+      "tokenCiphertext": "v1.S_r3VAeTT5fu5sgC.2mHq_Jdi7VoukSGisffeAQ.HMj3dRWjDLPNBzsSrl3h_Myr7fwfC3Blfm6WbY9FyGNwH5qvtagDeu6V1A",
+      "scopeType": "module",
+      "scopeId": "802a72e8-43cf-4cb7-9299-4063243ee09f",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "21f50dd9-1d6e-4841-b3e1-4d08f46d4f8d",
+      "tokenHash": "ec82383550d8e82fac007f82e97b6dbf1aded80de7303e3295e454bee9b50b8d",
+      "tokenCiphertext": "v1.0LWfTdJzV5gcG4UX.YZd3RGyIRiwR8QqARU4ZvA.7FWJnrbshLLcXxmaEHIbOXSJ0vjcuJzCN8HdsU9rC3CTqKtPOTomzzqK8w",
+      "scopeType": "activity",
+      "scopeId": "d1fb0227-1eca-41d0-a864-b12ed74d1a82",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    }
+  ],
+  "professorFeedback": [
+    {
+      "isolatedLinkId": "70dea65e-b0ce-4f83-8624-9a5fd2efe042",
+      "activityId": "175917a2-3497-4aac-9790-0b1d89eb4b88",
+      "professorName": "bb",
+      "score": 12,
+      "comments": "<!DOCTYPE html>\n<html>\n<body>\n <?php\n     echo \"Bonjour, bienvenue dans mon premier programme PHP !\";\n    ?>\n<h1>Ce texte est généré par PHP.</h1>\n</body>     \n </html>",
+      "observations": "",
+      "submittedAt": "2026-10-01T12:52:41.796Z"
+    },
+    {
+      "isolatedLinkId": "cc579dd6-f71e-4955-8308-305406185309",
+      "activityId": "175917a2-3497-4aac-9790-0b1d89eb4b88",
+      "professorName": "PROF",
+      "score": 20,
+      "comments": "",
+      "observations": "MV",
+      "submittedAt": "2026-10-01T19:59:53.906Z"
+    },
+    {
+      "isolatedLinkId": "ae2ae1bd-0b35-4936-8c0b-6137052ac136",
+      "activityId": "d1fb0227-1eca-41d0-a864-b12ed74d1a82",
+      "professorName": "whjdt",
+      "score": 2.5,
+      "comments": "kvodspjiec",
+      "observations": "jvrsjwårvjp",
+      "submittedAt": "2026-10-03T10:15:48.846Z"
+    },
+    {
+      "isolatedLinkId": "14dd9488-5575-4e1e-9863-ebfaceb7a495",
+      "activityId": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
+      "professorName": "Prof uml",
+      "score": 0,
+      "comments": "3yana",
+      "observations": "3yana walakin blhmr",
+      "submittedAt": "2026-10-03T12:45:20.923Z"
+    }
+  ],
+  "schemaVersion": 1,
+  "feedback": []
+}
