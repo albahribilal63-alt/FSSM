@@ -376,6 +376,15 @@
       "path": "public/storage/docs/ef40b973-69bd-4077-b550-8ace03914e0b.code",
       "order": 13,
       "visibility": "public"
+    },
+    {
+      "id": "f40cb255-b079-42f1-88d5-6630a0879e31",
+      "activityId": "29a94755-0bbb-4dcf-86ac-93e307cf42e0",
+      "name": "index.php",
+      "type": "CODE",
+      "path": "public/storage/docs/f40cb255-b079-42f1-88d5-6630a0879e31.code",
+      "order": 14,
+      "visibility": "public"
     }
   ],
   "isolatedLinks": [
