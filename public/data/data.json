@@ -286,6 +286,15 @@
       "path": "public/storage/docs/97a089bc-ed59-47c8-94fa-8d1c386f1b20.code",
       "order": 3,
       "visibility": "public"
+    },
+    {
+      "id": "a6b88cf3-a553-41c5-9bd6-31c8a84f5a95",
+      "activityId": "29a94755-0bbb-4dcf-86ac-93e307cf42e0",
+      "name": "ex04.php",
+      "type": "CODE",
+      "path": "public/storage/docs/a6b88cf3-a553-41c5-9bd6-31c8a84f5a95.code",
+      "order": 4,
+      "visibility": "public"
     }
   ],
   "isolatedLinks": [
