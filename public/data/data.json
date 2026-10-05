@@ -322,6 +322,15 @@
       "path": "public/storage/docs/48213f43-c846-4533-b1c5-f37d1a8a1c1c.code",
       "order": 7,
       "visibility": "public"
+    },
+    {
+      "id": "b622d4a9-96e9-4324-aa16-810701179f18",
+      "activityId": "29a94755-0bbb-4dcf-86ac-93e307cf42e0",
+      "name": "ex08.php",
+      "type": "CODE",
+      "path": "public/storage/docs/b622d4a9-96e9-4324-aa16-810701179f18.code",
+      "order": 8,
+      "visibility": "public"
     }
   ],
   "isolatedLinks": [
