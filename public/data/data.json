@@ -313,6 +313,15 @@
       "path": "public/storage/docs/411a28b7-f0c9-4977-89cf-d50250c8b6dd.code",
       "order": 6,
       "visibility": "public"
+    },
+    {
+      "id": "48213f43-c846-4533-b1c5-f37d1a8a1c1c",
+      "activityId": "29a94755-0bbb-4dcf-86ac-93e307cf42e0",
+      "name": "ex07.php",
+      "type": "CODE",
+      "path": "public/storage/docs/48213f43-c846-4533-b1c5-f37d1a8a1c1c.code",
+      "order": 7,
+      "visibility": "public"
     }
   ],
   "isolatedLinks": [
