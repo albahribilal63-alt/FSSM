@@ -198,15 +198,6 @@
       "visibility": "public"
     },
     {
-      "id": "f504ebb2-c335-460c-91a8-c865d01732f2",
-      "activityId": "50775b39-7fb5-466b-a7fe-6220ccbe0122",
-      "name": "TD.pdf",
-      "type": "PDF",
-      "path": "public/storage/docs/f504ebb2-c335-460c-91a8-c865d01732f2.pdf",
-      "order": 1,
-      "visibility": "public"
-    },
-    {
       "id": "059f327c-d85f-4e1c-8346-d339eb6bac31",
       "activityId": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
       "name": "ex01.php",
