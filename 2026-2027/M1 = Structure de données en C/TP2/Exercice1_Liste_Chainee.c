@@ -1,0 +1,81 @@
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct Cellule {
+    int val;
+    struct Cellule *suiv;
+} Cellule;
+
+typedef Cellule *Liste;
+
+
+/* 1°/ Trier la liste par ordre croissant */
+
+Liste Trier(Liste L)
+{
+    Cellule *p, *q;
+    int temp;
+
+    for (p = L; p != NULL; p = p->suiv)
+    {
+        for (q = p->suiv; q != NULL; q = q->suiv)
+        {
+            if (p->val > q->val)
+            {
+                temp = p->val;
+                p->val = q->val;
+                q->val = temp;
+            }
+        }
+    }
+
+    return L;
+}
+
+
+/* 2°/ Séparer la liste en deux listes :
+        L1 : éléments positifs
+        L2 : éléments négatifs et zéro */
+
+void Separer(Liste L, Liste *L1, Liste *L2)
+{
+    Cellule *p;
+    Cellule *nouveau;
+    Cellule *fin1 = NULL;
+    Cellule *fin2 = NULL;
+
+    *L1 = NULL;
+    *L2 = NULL;
+
+    p = L;
+
+    while (p != NULL)
+    {
+        nouveau = (Cellule *)malloc(sizeof(Cellule));
+        nouveau->val = p->val;
+        nouveau->suiv = NULL;
+
+        if (p->val > 0)
+        {
+            if (*L1 == NULL)
+                *L1 = nouveau;
+            else
+                fin1->suiv = nouveau;
+
+            fin1 = nouveau;
+        }
+        else
+        {
+            if (*L2 == NULL)
+                *L2 = nouveau;
+            else
+                fin2->suiv = nouveau;
+
+            fin2 = nouveau;
+        }
+
+        p = p->suiv;
+    }
+}
+```
