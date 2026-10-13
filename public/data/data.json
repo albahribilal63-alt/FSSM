@@ -411,6 +411,15 @@
       "path": "public/storage/docs/958c18ba-ce37-4459-b6a6-89bef591f8aa.code",
       "order": 3,
       "visibility": "public"
+    },
+    {
+      "id": "825a41b1-eb5d-48e4-9053-f53a18d5e9c9",
+      "activityId": "83b7a96e-3c91-4171-b195-c8329a7a16b7",
+      "name": "Correction_Exercice_UML_Simple.pdf",
+      "type": "PDF",
+      "path": "public/storage/docs/825a41b1-eb5d-48e4-9053-f53a18d5e9c9.pdf",
+      "order": 1,
+      "visibility": "public"
     }
   ],
   "isolatedLinks": [
