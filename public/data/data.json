@@ -185,6 +185,14 @@
       "type": "lesson",
       "order": 1,
       "visibility": "private"
+    },
+    {
+      "id": "83b7a96e-3c91-4171-b195-c8329a7a16b7",
+      "moduleId": "b29872df-9f28-4467-b945-361bda7c1c7d",
+      "title": "TP1",
+      "type": "exercise",
+      "order": 1,
+      "visibility": "public"
     }
   ],
   "assets": [
@@ -624,6 +632,16 @@
       "tokenCiphertext": "v1.0LWfTdJzV5gcG4UX.YZd3RGyIRiwR8QqARU4ZvA.7FWJnrbshLLcXxmaEHIbOXSJ0vjcuJzCN8HdsU9rC3CTqKtPOTomzzqK8w",
       "scopeType": "activity",
       "scopeId": "d1fb0227-1eca-41d0-a864-b12ed74d1a82",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "bc0e322b-9336-43a5-b1a4-aa778718af55",
+      "tokenHash": "74dd04e7e3a5d803fae0c3a19578e6f828d0fdbd6aa2526e8b53f6aa12d12864",
+      "tokenCiphertext": "v1.-c_9YdHHqgsQHWFn.y73ZlB5yJFUVpBEw5L6v6Q.9x-pYhQwa9rO7OWsmzk1n9FFyiBxrSaCmQCUBx1TNEfkHHZBS2QPQeBtzw",
+      "scopeType": "activity",
+      "scopeId": "83b7a96e-3c91-4171-b195-c8329a7a16b7",
       "purpose": "primary-professor",
       "status": "active",
       "expiresAt": null
