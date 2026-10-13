@@ -193,6 +193,14 @@
       "type": "exercise",
       "order": 1,
       "visibility": "public"
+    },
+    {
+      "id": "5be4501f-d112-4fca-838d-9eb1f4e8e606",
+      "moduleId": "b29872df-9f28-4467-b945-361bda7c1c7d",
+      "title": "TP2",
+      "type": "exercise",
+      "order": 2,
+      "visibility": "public"
     }
   ],
   "assets": [
@@ -651,6 +659,16 @@
       "tokenCiphertext": "v1.-c_9YdHHqgsQHWFn.y73ZlB5yJFUVpBEw5L6v6Q.9x-pYhQwa9rO7OWsmzk1n9FFyiBxrSaCmQCUBx1TNEfkHHZBS2QPQeBtzw",
       "scopeType": "activity",
       "scopeId": "83b7a96e-3c91-4171-b195-c8329a7a16b7",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "6c937730-bb64-4873-8c37-6ad6498a8e6c",
+      "tokenHash": "9a67ae575801c002089a9b654135bf4d73e91747fc93b835a6d14ed569ceaa77",
+      "tokenCiphertext": "v1.DP5BNig8HZ0GvqE9.OYTWGwn39pt7MERddeHo5g.I7henxehktn1dElLcEo9z8vmGfsnb-ew6QlumsPIYM3XZbbVruxW2iv1eA",
+      "scopeType": "activity",
+      "scopeId": "5be4501f-d112-4fca-838d-9eb1f4e8e606",
       "purpose": "primary-professor",
       "status": "active",
       "expiresAt": null
