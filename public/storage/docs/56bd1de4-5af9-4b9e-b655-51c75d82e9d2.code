@@ -1,0 +1,95 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+// Définition d'un nœud de la liste doublement chaînée circulaire
+typedef struct DNode {
+    int valeur;
+    struct DNode* precedent;
+    struct DNode* suivant;
+} DNode;
+
+// Fonction pour créer un nouveau nœud
+DNode* creerNoeud(int valeur) {
+    DNode* nouveau = (DNode*)malloc(sizeof(DNode));
+    nouveau->valeur = valeur;
+    nouveau->precedent = NULL;
+    nouveau->suivant = NULL;
+    return nouveau;
+}
+
+// Fonction pour ajouter un élément à la fin de la liste circulaire
+void AjouterFin(DNode** tete, int valeur) {
+    DNode* nouveau = creerNoeud(valeur);
+    if (*tete == NULL) {
+        *tete = nouveau;
+        nouveau->suivant = nouveau;
+        nouveau->precedent = nouveau;
+    } else {
+        DNode* dernier = (*tete)->precedent;
+        
+        dernier->suivant = nouveau;
+        nouveau->precedent = dernier;
+        nouveau->suivant = *tete;
+        (*tete)->precedent = nouveau;
+    }
+}
+
+// Fonction pour récupérer la valeur stockée à une position spécifique
+int ObtenirValeurParPosition(DNode* tete, int position) {
+    if (tete == NULL) {
+        printf("La liste est vide.\n");
+        return -1; // Code d'erreur
+    }
+
+    DNode* courant = tete;
+    int index = 0;
+
+    // Avancer jusqu'à la position souhaitée (la structure circulaire permet de tourner indéfiniment)
+    while (index < position) {
+        courant = courant->suivant;
+        index++;
+    }
+
+    return courant->valeur;
+}
+
+// Fonction pour afficher la liste circulaire
+void AfficherListe(DNode* tete, int nbElements) {
+    if (tete == NULL) {
+        printf("La liste est vide.\n");
+        return;
+    }
+
+    DNode* courant = tete;
+    printf("Liste circulaire : ");
+    for (int i = 0; i < nbElements; i++) {
+        printf("%d <-> ", courant->valeur);
+        courant = courant->suivant;
+    }
+    printf("(retour au debut)\n");
+}
+
+// Programme principal pour tester
+int main() {
+    DNode* tete = NULL;
+    int nbElements = 4;
+
+    // Ajout d'éléments dans la liste
+    AjouterFin(&tete, 10);
+    AjouterFin(&tete, 20);
+    AjouterFin(&tete, 30);
+    AjouterFin(&tete, 40);
+
+    // Affichage de la liste
+    AfficherListe(tete, nbElements);
+
+    // Test de la fonction pour récupérer une valeur par position
+    int pos = 2; // Par exemple, la position 2 (0-indexé : 0 -> 10, 1 -> 20, 2 -> 30)
+    int val = ObtenirValeurParPosition(tete, pos);
+    
+    if (val != -1) {
+        printf("La valeur a la position %d est : %d\n", pos, val);
+    }
+
+    return 0;
+}
