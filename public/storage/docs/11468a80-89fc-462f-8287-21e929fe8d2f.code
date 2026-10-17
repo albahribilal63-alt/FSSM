@@ -1,0 +1,104 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+// Définition d'un élément (nœud) de la file
+typedef struct Node {
+    int individu;       // Valeur représentant l'individu (ou ses amis)
+    int occurrences;    // Nombre d'amis regroupés
+    struct Node* suivant;
+} Node;
+
+// Définition de la file (pointeurs vers le début et la fin)
+typedef struct {
+    Node* tete;
+    Node* queue;
+} File;
+
+// Fonction pour initialiser la file
+void InitialiserFile(File* f) {
+    f->tete = NULL;
+    f->queue = NULL;
+}
+
+// Fonction pour ajouter un nouvel individu
+void Ajouter(File* f, int val) {
+    // Vérifier si l'individu (ou un ami avec le même entier) est déjà dans la file
+    Node* courant = f->tete;
+    while (courant != NULL) {
+        if (courant->individu == val) {
+            courant->occurrences++;
+            return;
+        }
+        courant = courant->suivant;
+    }
+
+    // Sinon, créer un nouveau nœud
+    Node* nouveau = (Node*)malloc(sizeof(Node));
+    nouveau->individu = val;
+    nouveau->occurrences = 1;
+    nouveau->suivant = NULL;
+
+    // Ajouter à la queue de la file
+    if (f->queue == NULL) {
+        f->tete = nouveau;
+        f->queue = nouveau;
+    } else {
+        f->queue->suivant = nouveau;
+        f->queue = nouveau;
+    }
+}
+
+// Fonction pour retirer le premier individu de la file
+void Retirer(File* f) {
+    if (f->tete == NULL) {
+        printf("La file est vide.\n");
+        return;
+    }
+
+    Node* temp = f->tete;
+
+    // Si le groupe comporte plusieurs amis, on décrémente le nombre d'occurrences
+    if (temp->occurrences > 1) {
+        temp->occurrences--;
+    } else {
+        // Le groupe entier quitte la file
+        f->tete = f->tete->suivant;
+        if (f->tete == NULL) {
+            f->queue = NULL;
+        }
+        free(temp);
+    }
+}
+
+// Fonction pour afficher la file d'attente
+void AfficherFile(File* f) {
+    Node* courant = f->tete;
+    printf("File d'attente : ");
+    while (courant != NULL) {
+        printf("[Individu: %d, Occurrences: %d] -> ", courant->individu, courant->occurrences);
+        courant = courant->suivant;
+    }
+    printf("NULL\n");
+}
+
+// Programme principal pour tester
+int main() {
+    File f;
+    InitialiserFile(&f);
+
+    // Simulation des arrivées
+    Ajouter(&f, 10); // Arrivée de l'individu 10
+    Ajouter(&f, 20); // Arrivée de l'individu 20
+    Ajouter(&f, 10); // L'individu 10 aperçoit son ami (occurrence passe à 2)
+    Ajouter(&f, 30); // Arrivée de l'individu 30
+    Ajouter(&f, 10); // L'individu 10 aperçoit encore un ami (occurrence passe à 3)
+
+    printf("--- Etat initial de la file ---\n");
+    AfficherFile(&f);
+
+    printf("\n--- Retrait d'un individu de la tete ---\n");
+    Retirer(&f); // Retire une occurrence de l'individu 10 (passe de 3 à 2)
+    AfficherFile(&f);
+
+    return 0;
+}
