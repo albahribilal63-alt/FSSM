@@ -155,22 +155,6 @@
       "visibility": "public"
     },
     {
-      "id": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
-      "moduleId": "1b52aa71-f9e5-45bb-95c6-763409c360b7",
-      "title": "TP 1",
-      "type": "exercise",
-      "order": 1,
-      "visibility": "public"
-    },
-    {
-      "id": "29a94755-0bbb-4dcf-86ac-93e307cf42e0",
-      "moduleId": "1b52aa71-f9e5-45bb-95c6-763409c360b7",
-      "title": "TP 2",
-      "type": "exercise",
-      "order": 2,
-      "visibility": "public"
-    },
-    {
       "id": "0f29b727-90ee-4c6f-bf7f-51aebd00c28c",
       "moduleId": "82e9c55e-a7ca-4004-afbb-5b2fa4c7016d",
       "title": "Test",
@@ -200,6 +184,30 @@
       "title": "TP2",
       "type": "exercise",
       "order": 2,
+      "visibility": "public"
+    },
+    {
+      "id": "0ebfd134-dce7-42ed-bc1d-7ae016e0b49d",
+      "moduleId": "1b52aa71-f9e5-45bb-95c6-763409c360b7",
+      "title": "TP 1",
+      "type": "exercise",
+      "order": 1,
+      "visibility": "public"
+    },
+    {
+      "id": "29a94755-0bbb-4dcf-86ac-93e307cf42e0",
+      "moduleId": "1b52aa71-f9e5-45bb-95c6-763409c360b7",
+      "title": "TP 2",
+      "type": "exercise",
+      "order": 2,
+      "visibility": "public"
+    },
+    {
+      "id": "af5432ea-3c36-4066-9bb4-aae1f0ff12c5",
+      "moduleId": "1b52aa71-f9e5-45bb-95c6-763409c360b7",
+      "title": "TP3",
+      "type": "exercise",
+      "order": 3,
       "visibility": "public"
     }
   ],
@@ -696,6 +704,16 @@
       "tokenCiphertext": "v1.DP5BNig8HZ0GvqE9.OYTWGwn39pt7MERddeHo5g.I7henxehktn1dElLcEo9z8vmGfsnb-ew6QlumsPIYM3XZbbVruxW2iv1eA",
       "scopeType": "activity",
       "scopeId": "5be4501f-d112-4fca-838d-9eb1f4e8e606",
+      "purpose": "primary-professor",
+      "status": "active",
+      "expiresAt": null
+    },
+    {
+      "id": "8182ce97-802e-468c-a3b0-c2c8a7fedaeb",
+      "tokenHash": "a2f4f18e4eccd76b1e88087b7baa9cb4c301f50f309fad9e4a1142826e7ce76c",
+      "tokenCiphertext": "v1.Zs1LiyAoYCH1DTHr.xCwkuiU7XC85yVZC16AqZQ.Rg_FhtJsuq_Tnr9HX5gS8VDNKum_50-kwWDvWS-Zh5td43ushXD8WM051g",
+      "scopeType": "activity",
+      "scopeId": "af5432ea-3c36-4066-9bb4-aae1f0ff12c5",
       "purpose": "primary-professor",
       "status": "active",
       "expiresAt": null
